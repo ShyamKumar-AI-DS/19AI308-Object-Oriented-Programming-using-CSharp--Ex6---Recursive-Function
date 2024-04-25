@@ -3,11 +3,16 @@
 To write a C# program to reverse a number using recursive function.
 
 ## Algorithm:
-### STEP 1 : Create a method (ReverseNumber) that takes an integer as input and returns its reversed form.
-### STEP 2 : Check if the number is 0. If so, return the reversed number.
-### STEP 3 : Use modulo operator (%) to get the last digit of the number.
-### STEP 4 : Multiply the current reversed number by 10 and add the last digit.
-### STEP 5 : Call the method with the remaining digits by dividing the number by 10.
+### STEP 1 : 
+Create a method (ReverseNumber) that takes an integer as input and returns its reversed form.
+### STEP 2 : 
+Check if the number is 0. If so, return the reversed number.
+### STEP 3 : 
+Use modulo operator (%) to get the last digit of the number.
+### STEP 4 : 
+Multiply the current reversed number by 10 and add the last digit.
+### STEP 5 : 
+Call the method with the remaining digits by dividing the number by 10.
 
 ## Program:
 ### Name : Shyam Kumar A
